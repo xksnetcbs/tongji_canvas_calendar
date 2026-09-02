@@ -1,0 +1,17 @@
+{
+  "canvas": {
+    "baseUrl": "https://canvas.tongji.edu.cn",
+    "loginUrlPattern": "iam\\.tongji\\.edu\\.cn",
+    "username": "YOUR_CANVAS_USERNAME",
+    "password": "YOUR_CANVAS_PASSWORD"
+  },
+  "caldav": {
+    "collectionUrl": "https://calendar.example.com/caldav/calendars/USERNAME/canvas/",
+    "username": "YOUR_CALDAV_USERNAME",
+    "password": "YOUR_CALDAV_PASSWORD"
+  },
+  "calendar": {
+    "uidDomain": "canvas-sync.local",
+    "productId": "-//Canvas CalDAV Sync//EN"
+  }
+}
