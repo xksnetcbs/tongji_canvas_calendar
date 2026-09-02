@@ -83,7 +83,3 @@ Linux `cron` 示例，每 15 分钟运行一次：
 ```
 
 Windows 可在“任务计划程序”中创建定时任务，将程序设为 `npm`，参数设为 `run sync`，起始目录设为项目目录。
-
-## 上传 GitHub 前
-
-仓库应只包含源码、`config.example.json`、依赖清单、`.gitignore` 和本文档。真实的 `config.json`、`browser-state.json`、`sync-state.json` 与日志文件不得提交。
